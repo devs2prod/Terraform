@@ -1,0 +1,3 @@
+output "secondblock" {
+  value = "secondblock"
+}
